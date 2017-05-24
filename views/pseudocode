@@ -1,0 +1,19 @@
+pseudocode
+
+
+
+
+
+
+
+get doc obj to handlebars
+	in p tags
+	send to divs in app.js
+display with bootstrap
+	link to it in main.hbs
+have button press get 20 results.
+	-ajax to api get route 
+	-append them to page. 
+
+get comment button to create new.
+	append to page. 
